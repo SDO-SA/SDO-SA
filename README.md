@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SDO-SA
 - 👀 I’m interested in Web development/Ai fields
-- 🌱 I’m currently learning Node.js & Express.js
+- 🌱 I’m currently learning PHP Laravel !!
 - 💞️ I’m looking to collaborate on Projects and stuff
 - 📫 How to reach me ? Linkedin in my bio!
 
